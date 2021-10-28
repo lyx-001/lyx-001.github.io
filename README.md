@@ -1,5 +1,5 @@
 # Website for the group project
-This website is temporarily used for the group project for the course MS000151: English for Master's degree. Note that it is expected to be withdrawn after the course finishes.
+This website is temporarily used for the group project for the course MS000151: English for Master's degree in Southeast University. Note that it is expected to be withdrawn after the course finishes.
 
 ## Main contents
 This website focuses on how to prevent COVID-19 in the campus, including:
